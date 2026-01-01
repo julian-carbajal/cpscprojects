@@ -1,0 +1,21 @@
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.gch
+a.out
+main
+ssc
+myprogram
+program
+studentTest
+MyProgram
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Zip files (optional - remove if you want to include them)
+*.zip
